@@ -49,7 +49,6 @@ I write about product strategy, prioritization, AI in product work, and mobility
 - Proven Track Record Shipping Complex Products across product management and product design
 - English (native or bilingual)
 - German (continuos learning)
-- French (continuos learning)
 
 ## Connect
 
