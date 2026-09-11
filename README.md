@@ -12,12 +12,12 @@ I work where product strategy and design meet: defining the roadmap, measuring w
 platform brands, impacting millions of active users globally.
 - Partnering tightly within product-engineering-design triads to define feature roadmaps, write detailed PRDs,
 and manage backlog prioritization using Agile frameworks, successfully accelerating feature delivery velocity
-by 25%.
+by reasonable percentage.
 - Navigate complex technical constraints and legacy system limitations with engineering leads, balancing
 architectural trade-offs to deliver robust, scalable MVPs on time and within scope.
 - Conduct rigorous user discovery, market research, and data analysis to synthesize customer feedback and
 telemetry data into crisp product requirements and executive-level business cases.
-- Maintain and scale comprehensive cross-platform component frameworks, driving a 30% reduction in
+- Maintain and scale comprehensive cross-platform component frameworks, driving a reduction in
 design-to-development handover cycles and ensuring brand consistency across platforms.
 
 
