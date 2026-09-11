@@ -1,24 +1,27 @@
 # Amajuoyi Udochukwu Deborah
 
-Senior Product Manager and Product Designer at [CARIAD](https://cariad.technology) (Volkswagen Group). Based in Germany.
+Senior Product Manager and Product Designer.
 
 I work where product strategy and design meet: defining the roadmap, measuring whether it worked, and shipping the experience people actually use.
 
 ## Now
 
-**CARIAD — Senior Product Strategist and Designer** (May 2026 – present), continuing a design leadership role on the same platform since 2023.
+**CARIAD — Senior Product Manager and Designer** (September 2025 – present),
 
-I lead product vision for **Vehicle Activation** across Volkswagen Group brands (Volkswagen, Škoda, CUPRA, SEAT). That includes:
+Spearhead product strategy and end-to-end execution for multi-segment digital ecosystems across major
+platform brands, impacting millions of active users globally.
+• Partnering tightly within product-engineering-design triads to define feature roadmaps, write detailed PRDs,
+and manage backlog prioritization using Agile frameworks, successfully accelerating feature delivery velocity
+by 25%.
+• Navigate complex technical constraints and legacy system limitations with engineering leads, balancing
+architectural trade-offs to deliver robust, scalable MVPs on time and within scope.
+• Conduct rigorous user discovery, market research, and data analysis to synthesize customer feedback and
+telemetry data into crisp product requirements and executive-level business cases.
+• Maintain and scale comprehensive cross-platform component frameworks, driving a 30% reduction in
+design-to-development handover cycles and ensuring brand consistency across platforms.
 
-- Scalable architecture and monetization that still respect each brand
-- Activation conversion, time-to-first-drive, drop-off, and digital feature adoption
-- End-to-end UX from discovery to production HMI and companion apps
-- Orchestrating product, cloud engineering, legal/privacy, and brand stakeholders
-- Research and usability loops so onboarding stays low-friction and trustworthy
 
-**DesignSpree Flow — Founder** (2026 – present). An intensive studio-simulation program that takes designers from academic theory to job-ready portfolios.
-
-Previously: Senior UX/UI for Volkswagen Group brands at Hexad GmbH, and Lead UI/UX Designer at Fluidangle.
+Previously: Lead Product Designer for Volkswagen Group brands at Hexad GmbH, and Lead Product Designer at Fluidangle.
 
 ## Selected work
 
@@ -43,8 +46,10 @@ I write about product strategy, prioritization, AI in product work, and mobility
 - MSc Information Technology, American InterContinental University
 - Product School: product design certification and product career / culture masterclasses
 - Product Design Scholarship (Product School); Google D&I scholarship, The In/Visible Talks
-- 12+ years across product management and product design
+- Proven Track Record Shipping Complex Products across product management and product design
 - English (native or bilingual)
+- German (continuos learning)
+- French (continuos learning)
 
 ## Connect
 
