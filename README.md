@@ -2,7 +2,7 @@
 
 Senior Product Designer & Product Manager.
 
-I design how products work and feel, and I also own the product strategy behind them, taking ideas from first sketch to shipped. Portfolio: [amajuoyideborah.com](https://amajuoyideborah.com)
+I design how products work and feel, and I also own the product strategy behind them, taking ideas from first sketch to shipped. I research, design, build, prioritize, ship and measure, and I balance what users need with what the business needs to grow. Portfolio: [amajuoyideborah.com](https://amajuoyideborah.com)
 
 ## Now
 
